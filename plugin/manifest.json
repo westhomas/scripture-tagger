@@ -1,0 +1,13 @@
+{
+  "name": "Ref Tagger",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Tags all scripture references on a page using .",
+  "browser_action": {
+    "default_icon": "lincoln_bible.png"
+  },
+  "background": { "scripts": ["background.js"] },
+  "permissions": [
+    "http://*/*"
+  ]
+}
