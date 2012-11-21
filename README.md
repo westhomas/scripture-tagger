@@ -6,7 +6,8 @@ This is a simple Chrome Extension which turns scripture references on a webpage 
 
 All of this is made possible by using the free RefTagger tool from Logos Bible Software.
 
-![https://raw.github.com/westhomas/scripture-tagger/master/images/screen_shot_1.png](Action Shot)
+[![Action Shot](https://raw.github.com/westhomas/scripture-tagger/master/images/screen_shot_1.png)](https://raw.github.com/westhomas/scripture-tagger/master/images/screen_shot_1.png)
+
 
 
 ###Installation
@@ -27,4 +28,4 @@ To get the code [View On GitHub](https://github.com/westhomas/scripture-tagger).
 
 
 ### Feedback
-Having trouble with the extension or want to make some suggestions? [Drop me a note](http://).
+Having trouble with the extension or want to make some suggestions? [Drop me a note](https://chrome.google.com/webstore/support/bjdodjhgmhfknagondkknocjpdchkhcn?hl=en&gl=US#feature).
