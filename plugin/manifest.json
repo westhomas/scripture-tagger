@@ -1,6 +1,6 @@
 {
   "name": "Scripture Tagger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "manifest_version": 2,
   "description": "A Chrome Extension to automatically tag scripture references using Logos Bible Software's RefTagger tool.",
   
