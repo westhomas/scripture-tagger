@@ -7,8 +7,10 @@ var script=document.createElement('script');script.src='//edgecaselabs.com/chrom
     function inject(){
         var script=document.createElement('script');
         script.src='//bible.logos.com/jsapi/referencetagging.js';
+        script.onload=function(){
+            tag();
+        }
         document.getElementsByTagName('head')[0].appendChild(script);
-        setTimeout(tag, 500); //wait for download
     }
     function tag(){
         Logos.ReferenceTagging.lbsBibleVersion = "ESV";
